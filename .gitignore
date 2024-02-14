@@ -1,2 +1,5 @@
 UCF101_subset
 scenic
+train.ipynb
+test_func.ipynb
+video_classification.ipynb
